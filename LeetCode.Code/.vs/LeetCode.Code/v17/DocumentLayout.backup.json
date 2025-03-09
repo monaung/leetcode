@@ -3,12 +3,51 @@
   "WorkspaceRootPath": "D:\\Learning\\LeetCode\\LeetCode.Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\ransomnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\ransomnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\meetup\\arrayexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\meetup\\arrayexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\recursive\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\recursive\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\recursive\\directorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\recursive\\directorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\recursive\\fibonancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\recursive\\fibonancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\maximumwealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\maximumwealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\ransomnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\ransomnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\numberofsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\numberofsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\containcommonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\containcommonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\stockmaxprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\stockmaxprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1663BA0-E382-475A-A0D1-9D2F81220C85}|..\\LeetCode.Test\\LeetCode.Test.csproj|d:\\learning\\leetcode\\leetcode.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|d:\\learning\\leetcode\\leetcode.code\\leetcode.code\\sumequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D00DCE3-7ECE-4CDA-A7CB-EF721F9B569C}|LeetCode.Code\\LeetCode.Code.csproj|solutionrelative:leetcode.code\\sumequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +69,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayExceptSelf.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Meetup\\ArrayExceptSelf.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\Meetup\\ArrayExceptSelf.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Meetup\\ArrayExceptSelf.cs",
+              "RelativeToolTip": "LeetCode.Code\\Meetup\\ArrayExceptSelf.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:27:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DirectoryList.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Recursive\\DirectoryList.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\Recursive\\DirectoryList.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Recursive\\DirectoryList.cs",
+              "RelativeToolTip": "LeetCode.Code\\Recursive\\DirectoryList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:01:20.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaximumWealth.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\MaximumWealth.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\MaximumWealth.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\MaximumWealth.cs",
+              "RelativeToolTip": "LeetCode.Code\\MaximumWealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:57:53.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RansomNote.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\RansomNote.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\RansomNote.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\RansomNote.cs",
+              "RelativeToolTip": "LeetCode.Code\\RansomNote.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:57:28.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumberOfSteps.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\NumberOfSteps.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\NumberOfSteps.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\NumberOfSteps.cs",
+              "RelativeToolTip": "LeetCode.Code\\NumberOfSteps.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:32:36.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fibonancial.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Recursive\\Fibonancial.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\Recursive\\Fibonancial.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Recursive\\Fibonancial.cs",
+              "RelativeToolTip": "LeetCode.Code\\Recursive\\Fibonancial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:32:36.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode.Code\\Program.cs",
               "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Program.cs",
               "RelativeToolTip": "LeetCode.Code\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAD4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:38:59.236Z",
+              "WhenOpened": "2025-03-07T07:43:51.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RansomNote.cs",
-              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\RansomNote.cs",
-              "RelativeDocumentMoniker": "LeetCode.Code\\RansomNote.cs",
-              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\RansomNote.cs",
-              "RelativeToolTip": "LeetCode.Code\\RansomNote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "StockMaxProfit.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\StockMaxProfit.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\StockMaxProfit.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\StockMaxProfit.cs",
+              "RelativeToolTip": "LeetCode.Code\\StockMaxProfit.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwEEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:35:12.181Z",
+              "WhenOpened": "2025-03-07T04:55:44.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\LeetCode.Test\\UnitTest1.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\LeetCode.Test\\UnitTest1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:51:03.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Recursive\\Factorial.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\Recursive\\Factorial.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\Recursive\\Factorial.cs",
+              "RelativeToolTip": "LeetCode.Code\\Recursive\\Factorial.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:47:56.641Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContainCommonItem.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\ContainCommonItem.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\ContainCommonItem.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\ContainCommonItem.cs",
+              "RelativeToolTip": "LeetCode.Code\\ContainCommonItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T00:24:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SumEqual.cs",
+              "DocumentMoniker": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\SumEqual.cs",
+              "RelativeDocumentMoniker": "LeetCode.Code\\SumEqual.cs",
+              "ToolTip": "D:\\Learning\\LeetCode\\LeetCode.Code\\LeetCode.Code\\SumEqual.cs",
+              "RelativeToolTip": "LeetCode.Code\\SumEqual.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:37:51.998Z"
             }
           ]
         }

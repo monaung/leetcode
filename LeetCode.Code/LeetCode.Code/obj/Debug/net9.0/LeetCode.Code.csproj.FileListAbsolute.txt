@@ -7,6 +7,7 @@ D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\LeetCode.Code.
 D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\LeetCode.Code.AssemblyInfoInputs.cache
 D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\LeetCode.Code.AssemblyInfo.cs
 D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\LeetCode.Code.csproj.CoreCompileInputs.cache
+D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\LeetCode.Code.sourcelink.json
 D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\LeetCode.Code.dll
 D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\refint\LeetCode.Code.dll
 D:\Learning\LeetCode\LeetCode.Code\LeetCode.Code\obj\Debug\net9.0\LeetCode.Code.pdb
